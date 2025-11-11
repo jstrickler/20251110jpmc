@@ -1,4 +1,7 @@
 
+
+# \uXXXX
+# \UXXXXXXXX 
 print('we spent \u20ac1.23M for an original C\u00e9zanne')
 
 # unicode is not evaluated in raw strings
@@ -22,3 +25,4 @@ data = ['\U0001F95A', '\U0001F414']
 print("before sorting:", data)
 print("after sorting:", sorted(data))
 print("Which came first?")
+print("\u09B0")

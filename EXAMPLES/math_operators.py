@@ -1,5 +1,5 @@
 a = 23
-b = 7
+b = 7.0
 
 print(a + b, a - b, a * b)  # normal operations
 
@@ -14,6 +14,7 @@ x += 10  # Same as x = x + 10
 print(f"{x = }")
 print()
 
+# P E M/D A/S
 alpha = 1
 beta = 2
 gamma = 3
