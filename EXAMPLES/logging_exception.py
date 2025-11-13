@@ -8,5 +8,6 @@ logging.basicConfig( # configure logging
 for i in range(3):
     try:
         result = i/0
-    except ZeroDivisionError:
+    except ZeroDivisionError:  
+        # equivalent to logging.error()
         logging.exception('Logging with exception info') # add exception info to the log
