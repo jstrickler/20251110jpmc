@@ -17,6 +17,10 @@ def main(args):
     """
     function1()
 
+def foo():
+    'this is the doc string'
+    print("foo foo foo")
+
 # other functions
 def function1():
     """

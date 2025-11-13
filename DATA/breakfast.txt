@@ -43,9 +43,11 @@ idli
 ackee and saltfish
 spam
 sausage
+haggis
 crumpets
 spam
 sausage
+vegan haggis
 eggs
 spam
 waffles
@@ -77,4 +79,3 @@ spam
 spam
 spam
 idli
-
